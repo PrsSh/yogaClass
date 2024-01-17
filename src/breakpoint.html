@@ -1,0 +1,121 @@
+<!doctype html>
+<html dir="rtl">
+	<head>
+		<title>breakpoint</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width , initial-scale=1.0">
+		<link rel="icon" type="image/x-icone" href="../lib/img/icon.png">
+		
+
+<style>           
+/* BREAKPOINT */
+
+
+ h1{
+    display: none;
+    color: aqua;
+   
+  
+} 
+
+
+
+@media (max-width:575px)  {
+    .xs h1 {
+        display: block;
+        background-color: #711DB0;
+    }
+    body{
+        background-color: #8ea5f3;
+    }
+}
+
+
+
+
+@media only screen and (orientation: landscape) and (max-height: 575px) and (max-width :550px)  {
+    .horizontal h1 {
+        display: block;
+        background-color: #e20f60;  
+        width: 100%;  
+    }
+    body {
+        background-color: gray;
+    }
+   .xs h1 {
+    display: none;
+   }
+}
+
+
+
+
+
+
+
+
+
+@media (min-width:576px) and (max-width:767px) {
+    .sm h1 {
+        display: block;
+        background-color:#9c7e24
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .md h1 {
+        display: block;
+        background-color: #C21292;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .lg h1 {
+        display: block;
+        background-color: #dd9c04;
+    }
+}
+
+@media (min-width:1200px) and (max-width:1399px) {
+    .xl h1 {
+        display: block;
+        background-color: #f5730f;
+    }
+}
+
+@media (min-width:1400px)  {
+    .xxl h1 {
+        display: block;
+        background-color: #f9c448;
+    }
+}
+</style>
+	
+	</head>
+		
+	<body>
+
+
+
+    <!-- <div class="breakpoint"> -->
+       
+        <div class="xs"><h1>Extra Small</h1></div>
+        <div class="sm"><h1>Small</h1></div>
+        <div class="md"><h1>Medium</h1></div>
+        <div class="lg"><h1>Large</h1></div>
+        <div class="xl"><h1>Extra Large</h1></div>
+        <div class="xxl"><h1>Extra Extra Large</h1></div>
+        <div class="horizontal"><h1>لطفا گوشی را بچرخانید</h1></div>
+    <!-- </div> -->
+
+
+
+		
+
+
+
+
+</body>
+
+
+	
+</html>

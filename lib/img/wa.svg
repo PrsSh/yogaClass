@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 250 150" style="enable-background:new 0 0 250 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FF9000;}
+	.st2{font-family:'AdobeArabic-Regular';}
+	.st3{font-size:21px;}
+	.st4{font-size:20.2797px;}
+	.st5{fill:#26143E;}
+	.st6{fill:#00C433;}
+	.st7{font-size:23.849px;}
+</style>
+<g>
+	<path class="st0" d="M7.24,103.68V8.39c0-2.94,2.38-5.32,5.32-5.32h232.13c2.94,0,5.32,2.38,5.32,5.32v95.29
+		c0,2.94-2.38,5.32-5.32,5.32H12.56C9.62,109,7.24,106.62,7.24,103.68z"/>
+	<path class="st1" d="M237.41,3.07H11.82c-4.74,0-8.59,3.84-8.59,8.59v32.88H246V11.65C246,6.91,242.16,3.07,237.41,3.07z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 26.5811 27.6427)" class="st0 st2 st3">کیف پول</text>
+	</g>
+	<path class="st0" d="M233.93,26.65h-10.37c-0.51,0-0.91-0.41-0.91-0.91l0,0c0-0.51,0.41-0.91,0.91-0.91h10.37
+		c0.51,0,0.91,0.41,0.91,0.91l0,0C234.84,26.24,234.43,26.65,233.93,26.65z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 122.6191 25.2329)" class="st0 st2 st4">تومان</text>
+	</g>
+	<circle class="st5" cx="72.2" cy="68.24" r="6.34"/>
+	<polygon class="st6" points="72.2,65.87 69.08,69 75.33,69 	"/>
+	<g>
+		<text transform="matrix(1 0 0 1 89.5557 73.3715)" class="st6 st2 st7">افزایش موجودی</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 164.589 26.2971)" class="st0 st2 st4">12000</text>
+	</g>
+</g>
+</svg>

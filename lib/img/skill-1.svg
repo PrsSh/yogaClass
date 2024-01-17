@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F4E598;}
+	.st1{fill:#FF9000;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'AdobeArabic-Regular';}
+	.st4{font-size:12.1578px;}
+	.st5{font-family:'Lato-Medium';}
+	.st6{font-size:9.7953px;}
+	.st7{fill:#5D4986;}
+	.st8{fill:none;stroke:#FF9000;stroke-width:9;stroke-miterlimit:10;}
+	.st9{fill:#00C433;}
+	.st10{fill:#FF0250;}
+	.st11{fill:#26143E;}
+	.st12{font-family:'Lato-Heavy';}
+	.st13{font-size:12.174px;}
+	.st14{font-size:11.3483px;}
+</style>
+<g>
+	<path class="st0" d="M2.57,136.7V8.83c0-2.8,2.27-5.07,5.07-5.07h134.28c2.8,0,5.07,2.27,5.07,5.07V136.7
+		c0,2.8-2.27,5.07-5.07,5.07H7.65C4.85,141.77,2.57,139.5,2.57,136.7z"/>
+	<path class="st1" d="M141.89,3.75H7.68c-2.82,0-5.11,2.29-5.11,5.11v19.56H147V8.86C147,6.04,144.71,3.75,141.89,3.75z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 68.4326 16.8345)" class="st2 st3 st4">سطح تمرینات</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 27.7778 116.75)" class="st2 st5 st6">Calendar</text>
+	</g>
+	<path class="st2" d="M137.44,16.53h-6.17c-0.3,0-0.54-0.24-0.54-0.54l0,0c0-0.3,0.24-0.54,0.54-0.54h6.17
+		c0.3,0,0.54,0.24,0.54,0.54l0,0C137.98,16.29,137.74,16.53,137.44,16.53z"/>
+	<g>
+		<path class="st7" d="M74.79,90.99c-15.5,0-28.12-12.61-28.12-28.12s12.61-28.12,28.12-28.12c15.5,0,28.12,12.61,28.12,28.12
+			S90.29,90.99,74.79,90.99z M74.79,41.36c-11.86,0-21.51,9.65-21.51,21.51c0,11.86,9.65,21.51,21.51,21.51
+			c11.86,0,21.51-9.65,21.51-21.51C96.3,51.01,86.65,41.36,74.79,41.36z"/>
+	</g>
+	<path class="st8" d="M74.79,38.05c13.7,0,24.81,11.11,24.81,24.81S88.49,87.68,74.79,87.68c-9.2,0-17.23-5.01-21.51-12.44"/>
+	<path class="st9" d="M60.63,118.75H18.42c-2.27,0-4.11-1.84-4.11-4.11v-9.19c0-2.27,1.84-4.11,4.11-4.11h42.21
+		c2.27,0,4.11,1.84,4.11,4.11v9.19C64.74,116.91,62.9,118.75,60.63,118.75z"/>
+	<path class="st10" d="M131.15,118.75H88.95c-2.27,0-4.11-1.84-4.11-4.11v-9.19c0-2.27,1.84-4.11,4.11-4.11h42.21
+		c2.27,0,4.11,1.84,4.11,4.11v9.19C135.27,116.91,133.43,118.75,131.15,118.75z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 63.7222 66.2832)" class="st11 st12 st13">60%</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 29.0566 112.7578)" class="st2 st3 st14">مقدماتی</text>
+	</g>
+	<g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 95.1973 113.2246)" class="st2 st3 st14">پشیرفته</text>
+	</g>
+</g>
+</svg>

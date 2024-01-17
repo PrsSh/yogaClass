@@ -1,0 +1,171 @@
+<!doctype html>
+<html dir="rtl">
+<head>
+	<title>register</title>
+	<meta charset="utf-8" name="viewport" content="width=device-width , initial-scale=1.0">
+	<link rel="icon" type="image/x-icone" href="../lib/img/icon.png">
+	<link rel="stylesheet" href="../lib/css/style.css" >
+</head>
+<body>
+	
+	<div class="index">
+		<div id="header">
+			<div id="logo"> 
+				<a href="index.html"><img src="../lib/img/logo2.png" alt="logo" id="logo"> </a>  
+			</div>
+			
+			<div class="menu">
+				<ul  >
+					
+					<li><a href="index.html">خانه </a>  </li>
+					<li><a href="courses.html">دوره ها</a> 
+						<ul>
+							<li><a href="">دوره های حضوری</a></li>
+							<li><a href="">دوره های آنلاین</a></li>
+						</ul>
+					</li>
+					<li><a href="article.html">  مقالات  </a> 
+
+						<ul>
+							<li><a href="article-mat.html">ویژگی های وسایل یوگا مناسب</a></li>
+							<li><a href="article-sickness.html">  علت تهوع و سرگیجه بعد یوگا</a></li>
+							<li><a href="article-mistake.html">  اشتباهات رایج در تمرینات یوگا</a></li>
+							<li><a href="article-variation.html">  انواع سبک های یوگا</a></li>
+						</ul>
+					</li>
+					<li><a href="about-me.html">درباره ما</a> </li>
+					<li><a href="contact-us.html">تماس با ما  </a></li>
+					<li><a href="practice.html">      تمرینات  </a></li>	
+					
+				</ul>
+			</div>
+			
+			 <div id="login"><a href="login.html"><img src="../lib/img/login-1.svg" alt="login"></a></div>
+		</div>
+		
+		
+<div class="regist-form">
+	<form action="" method="post" autocomplete="off" >
+    	<h2>فرم ثبت نام</h2>
+
+		<br>
+
+		
+		<div id="dashboard-profile"><img src="../lib/img/profile.svg" alt=""></div>
+		<div id="regist-pic"><label for="">تغییرعکس پروفایل</label></div>
+		<div><input type="file" ></div>
+    
+
+<br>
+<div class="form-line"> <p>اطلاعات شخصی</p></div>
+<br>
+
+<div><label for="name-regist"> نام  </label> </div>
+<div><input type="text" id="name-regist" placeholder=" نام " required minlength="3" maxlength="12" autocomplete="off" title="نام باید بین 3 تا12  کاراکتر باشد"></div>
+
+
+<div><label for="famil-regist">نام خانوادگی</label></div>
+<div><input type="text" id="famil-regist" placeholder=" نام خانوادگی" required minlength="3" maxlength="20" autocomplete="off"></div>
+
+
+<div><label for="age"> سن </label> </div>
+<div><input type="number" id="age" placeholder=" سن " required minlength="1" maxlength="3" autocomplete="off"></div>
+
+<div><label for="">جنسیت  </label> </div>
+<div> 
+	<label for="gender-f" >زن</label><input type="radio" id="gender-f" value="female" name="gender">
+	<label for="gender-m" >مرد</label><input type="radio" id="gender-m" value="male" name="gender">
+</div>
+
+
+
+
+<div><label for="username"> نام کاربری  </label> </div>
+<div><input type="text" id="username" placeholder=" نام کاربری = کد ملی " required minlength="10" maxlength="10" autocomplete="off" title="    لطفا کد ملی خود را وارد نمایید"></div>
+
+
+<div><label for="pass-regist">رمز ورود </label></div>
+<div><input type="password"  minlength="8" title="رمز ورود حداقل 8 کاراکتر . شامل حروف کوچک و بزرگ ،اعداد و نماد باشد" id="pass-regist"  pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).*$" required></div>
+
+<div><label for="pass-regist">تکرار رمز ورود</label></div>
+<div><input type="password" minlength="8" title="رمز ورود حداقل 8 کاراکتر . شامل حروف کوچک و بزرگ ،اعداد و نماد باشد"  pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).*$" required></div>
+
+
+<br>
+
+<div class="form-line"> <p>اطلاعات تماس  </p></div>
+<br>
+<div><label for="tel-regist">موبایل</label></div>
+<div><input type="tel" id="tel-regist"  pattern="09(1[0-9]|3[1-9]|2[1-9])-?[0-9]{3}-?[0-9]{4}"  autocomplete="off" required>  </div>
+<div><label for="mail-regist">ایمیل</label></div>
+<div><input type="email" id="mail-regist" required  pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*$" autocomplete="off"></div>
+
+
+<br>
+<div class="form-line"><p>سابقه ورزشی</p></div>
+<br>
+
+<div ><lable for="">آیا سابقه ورزشی دارید:</lable></div>
+<div><label for="history-yes">بله</label><input type="radio" name="sportHistory" value="yes" id="history-yes" > &nbsp; <label for="history-no">خیر</label><input type="radio" name="sportHistory" value="no" id="history-no"></div>
+
+
+	
+
+
+<div><lable for="">آیا سابقه یوگا دارید:</lable></div>
+<div><label for="yoghistory-y">بله</label><input type="radio" name="yogaHistory" value="yes" id="yoghistory-y"> &nbsp; <label for="yoghistory-n">خیر</label><input type="radio" name="yogaHistory" value="no" id="yoghistory-n"></div>
+
+
+
+
+<div class="form-variation">
+<div><lable for="yogaVariation">  تجربه تمرین چه سبک یوگا را دارید:</lable></div>
+<select name="" id="yogaVariation" >
+<option value="ashtanga"  >آشتانگا</option>
+<option value="viniasa">وینیاسا</option>
+<option value="hata">هاتا یوگا</option>
+<option value="ayingar">آیینگر</option>
+<option value="bikram">بیکرام</option>
+<option value="kondalini">کندالینی</option>
+<option value="yein">یین</option>
+<option value="threastment">درمانی</option>
+</select>
+</div>
+<br>
+
+<div><label for="">چند روز در هفته ورزش می کنید:</label></div>
+	
+
+	<div><input type="checkbox" value="2" id="day1">  <label for="day1">یک روز</label> &nbsp;&nbsp;
+	<input type="checkbox" value="3" id="day2">  <label for="day2">بیش از دو روز</label> &nbsp;&nbsp;
+	<input type="checkbox" value="4" id="day3">  <label for="day3">بیش از سه روز</label> &nbsp;&nbsp;
+	<input type="checkbox" value="5" id="day4">  <label for="day4">بیش از چهار روز</label> </div>
+
+	<br>
+
+	<div><label for="">میزان آمادگی بدنی خود را در چه حد می بینید &nbsp; &nbsp;&nbsp; &nbsp;</label><input type="range" min="خیلی کم" max="خیلی زیاد" step="متوسط"></div>
+	
+
+
+	<div id="regist-submit"><a href="dashboard.html"><input type="submit" value="تایید"></a></div>
+	</form>
+</div>
+
+
+<br><br><br>
+		
+
+
+		<div class="headphone">
+			<a href=""><img src="../lib/img/headphone_8215612.png" alt=""></a>
+		</div>
+        <br>
+
+		<!-- bottom -->
+		<div class="bottom">
+			<a href="https://www.htmllearn.ir"> لینک کلاس </a> 
+		</div>
+	</div>
+		
+</body>
+</html>
